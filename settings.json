@@ -6,6 +6,5 @@
     "php.stubs": [
         "*",
         "wordpress"
-    ],
-    "editor.formatOnSave": true
+    ]
 }
