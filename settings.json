@@ -1,0 +1,11 @@
+{
+    "intelephense.stubs": [
+        "apache",
+        "wordpress"
+    ],
+    "php.stubs": [
+        "*",
+        "wordpress"
+    ],
+    "editor.formatOnSave": true
+}
