@@ -6,5 +6,7 @@
     "php.stubs": [
         "*",
         "wordpress"
-    ]
+    ],
+    "editor.wordWrap": "on",
+    "explorer.sortOrder": "type"
 }
