@@ -7,6 +7,6 @@
         "*",
         "wordpress"
     ],
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "off",
     "explorer.sortOrder": "type"
 }
